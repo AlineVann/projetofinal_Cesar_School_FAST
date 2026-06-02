@@ -12,7 +12,7 @@ O desafio foi criar uma solução digital para mitigar a falta de acompanhamento
 # 📊 Abordagem Data-Driven (Design Orientado a Dados)
 Como parte da metodologia do curso, o design foi guiado por decisões baseadas em dados e métricas de sucesso:
 
-O Problema (Dados de Pesquisa):Identificamos que [X]% dos pacientes abandonam a fisioterapia por falta de orientação imediata (insira um dado real ou fictício do seu pitch se tiver).
+O Problema (Dados de Pesquisa):Identificamos que uma quantidade grande de pacientes abandonam a fisioterapia por falta de orientação imediata (insira um dado real ou fictício do seu pitch se tiver).
  Métricas de Sucesso (KPIs Propostos):
  Taxa de Retenção:* Frequência diária de login no app.
  NPS (Net Promoter Score): Satisfação do paciente com a recuperação.
